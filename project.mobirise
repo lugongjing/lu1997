@@ -500,7 +500,7 @@
           "title": "自我评价",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>具有较强的抗压能力，不惧高强度的工作挑战。</p><p>勤奋认真，文字编写能力较强，热爱传媒事业，具有较强的新闻敏感性。\n</p><p>善于学习，踏实肯干，团队协作能力强。\n</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">追求美好 向往阳光</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">追求美好 向往阳光</a>",
           "_tags": [
             "主题"
           ],
@@ -1015,7 +1015,7 @@
           },
           "title": "科研尝试",
           "text": "努力加油！",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
           "_tags": [
             "主题"
           ],
@@ -1122,7 +1122,7 @@
           },
           "title": "学习经历",
           "text": "学到头秃！",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
           "_tags": [
             "主题"
           ],
