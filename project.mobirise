@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-06-26_1839",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1015,7 +1015,7 @@
           },
           "title": "科研尝试",
           "text": "努力加油！",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
           "_tags": [
             "主题"
           ],
@@ -1122,7 +1122,7 @@
           },
           "title": "学习经历",
           "text": "学到头秃！",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
           "_tags": [
             "主题"
           ],
