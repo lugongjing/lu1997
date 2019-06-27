@@ -67,7 +67,7 @@
                 "title": "科研尝试",
                 "contentAlign": "center",
                 "text": "随着理论学习逐渐深入，阅读文献的范围越来越广，效率也越来越高，我一定程度上跟着老师和其他学术大咖的脚步进行了一些学术思考和科研尝试。",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">学习经历</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">科研尝试</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">学习经历</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">科研尝试</a> "
               }
             ]
           },
@@ -353,7 +353,7 @@
           },
           "title": "学习成绩",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>前五学期最终成绩为88.23，排名为11/57，共有27门课程分数在90分以上，并在深度报道写作（100）、新闻评论（96）、媒介批判理论（96）等多门核心课程中取得高分。</p>",
+          "text": "<p>前五学期最终成绩为87.76，排名为11/57，共有30门课程分数在90分以上，并在新闻评论（95）、中外新闻评论（100）、互联网应用模式与战略（96）、深度报道（92）等多门核心课程都取得高分。</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "主题"
@@ -1088,7 +1088,7 @@
     "page5.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Page 5",
+        "title": "学习经历",
         "order": 4
       },
       "components": [
